@@ -13,3 +13,4 @@ Uso local:
 3. Configurar la simulación y ejecutar rondas.
 
 Esta versión es un prototipo front-end. Para producción web se deberá separar frontend, backend, autenticación, base de datos y motor de simulación.
+espliegue de verificación Cloudflare Pages - V0.2
